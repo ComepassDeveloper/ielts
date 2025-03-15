@@ -102,7 +102,7 @@ _Label the map below._
 
 _Write the correct letter,_ _**A–H**_, next to Questions 16–20.
 
-![Alt text](https://github.com/ComepassDeveloper/ielts/blob/main/ieltsAcademic/listening-image.jpg?raw=true)
+![Alt text](https://cdn.jsdelivr.net/gh/ComepassDeveloper/ielts@main/ieltsAcademic/listening-image.jpg)
 
 
 **16**   Farm shop   ……………
