@@ -1,8 +1,6 @@
 ## **SECTION 1**
 
-_**Questions 1-14**_
-
-_Read the text below and answer Questions 1-7._
+_Read the text below and answer_ _**Questions 1-7**._
 
 **Visitor attractions in southern England**
 
