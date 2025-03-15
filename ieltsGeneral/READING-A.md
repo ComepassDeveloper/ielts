@@ -33,7 +33,7 @@ _**TRUE**_               _if the statement agrees with the informa
 
 _**FALSE**_              _if the statement contradicts the information_
 
-_**NOT**_ _**GIVEN**_         _if there is no information on this_
+_**NOT**_ _**GIVEN**_     _if there is no information on this_
 
 **8**   A paraglider is more comfortable than a parachute. 
 
