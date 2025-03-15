@@ -1,4 +1,4 @@
-[Listen to the audio](https://cdn.jsdelivr.net/gh/fxbite/ielts@main/cam19-test1-part2.m4a)
+[Listen to the audio](https://cdn.jsdelivr.net/gh/ComepassDeveloper/ielts@main/ieltsGeneral/Cap19Test1.MP3)
 
 ## **PART 1**
 
@@ -102,7 +102,7 @@ _Label the map below._
 
 _Write the correct letter,_ _**A–H**_, next to Questions 16–20.
 
-![Alt text](https://github.com/ComepassDeveloper/ielts/blob/main/listening-image.jpg?raw=true)
+![Alt text](https://github.com/ComepassDeveloper/ielts/blob/main/ieltsGeneral/listening-image.jpg?raw=true)
 
 
 **16**   Farm shop   ……………
