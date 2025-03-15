@@ -126,7 +126,7 @@ Piracy was an issue ancient Rome had to deal with, but it also brought some bene
 
 _Choose the correct letter,_ _**A**_, _**B**_, _**C**_ _or_ _**D**_.
 
-_Write the correct letter in boxes 27–30 on your answer sheet._
+_Write the correct letter in boxes_ _**27–30**_ _on your answer sheet._
 
 **27**   What point does the writer make about misinformation in the first paragraph?
 
@@ -172,7 +172,7 @@ _Write the correct letter in boxes 27–30 on your answer sheet._
 
 _Complete the summary using the list of phrases,_ _**A–J**_, below
 
-_Write the correct letter,_ _**A–J**_, in boxes 31–36 on your answer sheet.
+_Write the correct letter,_ _**A–J**_, _in boxes_ _**31–36**_ _on your answer sheet._
 
 **What happens when people encounter misinformation?**
 -----------------------------------
@@ -203,7 +203,7 @@ Although people have **31**……………… to misinformation, there is debat
 
 Do the following statements agree with the claims of the writer in Reading Passage 3?
 
-_In boxes 37–40_ _on your answer sheet, write_
+_In boxes_ _**37–40**_ _on your answer sheet, write_
 
 _**YES**_                  _if the statement agrees with the claims of the writer_
 
