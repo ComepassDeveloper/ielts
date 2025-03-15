@@ -55,7 +55,7 @@ Reading Passage 2 has seven paragraphs, **A–G**.
 
 Which paragraph contains the following information?
 
-_Write the correct letter,_ _**A–G**_, in boxes_ _**14–19**_ _on your answer sheet._
+_Write the correct letter,_ _**A–G**_, _in boxes_ _**14–19**_ _on your answer sheet._
 
 _**NB**_   _You may use any letter more than once._
 
