@@ -3,6 +3,7 @@
 _Read the text below and answer_ _**Questions 1-7**._
 
 **Visitor attractions in southern England**
+-----------------------------------
 
 **A   Blackthorn Castle**
 
@@ -30,9 +31,10 @@ This is an ideal venue for families. They can visit the childhood gallery with i
 
 ---
 
-_Read the text below and answer Questions 8-14._
+_Read the text below and answer_ _**Questions 8-14.**_
 
 **Paragliding in Australia**
+-----------------------------------
 
 **What is paragliding?**
 
@@ -58,11 +60,10 @@ There’s no upper age limit provided your instructor deems you capable, but the
 
 ## **SECTION 2**
 
-_**Questions 15-27**_
-
-_Read the text below and answer Questions 15-21._
+_Read the text below and answer_ _**Questions 15-21.**_
 
 **How to prepare for an interview**
+-----------------------------------
 
 **Why prepare?**
 
@@ -118,9 +119,10 @@ Good luck!
 
 ---
 
-_Read the text below and answer Questions 22-27._
+_Read the text below and answer_ _**Questions 22-27.**_
 
 **Setting up your own business**
+-----------------------------------
 
 Here are some ideas about how you should start: 
 
@@ -158,11 +160,10 @@ Now write it all up and call it a business plan.
 
 ## **SECTION 3**
 
-_**Questions 28-40**_
-
-_Read the text below and answer Questions 28-40._
+_Read the text below and answer_ _**Questions 28-40.**_
 
 **Understanding hares**
+-----------------------------------
 
 With its wild stare, swift speed and secretive nature, the UK’s brown hare is the rabbit’s mysterious cousin. Even in these days of agricultural intensification, the hare is still to be seen in open countryside, but its numbers are falling. 
 
