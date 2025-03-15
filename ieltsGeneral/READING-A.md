@@ -8,19 +8,19 @@ _Write the correct letter,_ _**A-F**_, in boxes_ _**1-7**_ _on your answer sheet
 
 _**NB**_    _You may use any letter more than once._
 
-**1**   Visitors can look at animals from another part of the world. 
+**1**   Visitors can look at animals from another part of the world. 
 
-**2**   People can hold a business conference in this place. 
+**2**   People can hold a business conference in this place. 
 
-**3**   Visitors can find out what toys were used in the last century. 
+**3**   Visitors can find out what toys were used in the last century. 
 
-**4**   Activities are available all year round here. 
+**4**   Activities are available all year round here. 
 
-**5**   You can buy light meals here. 
+**5**   You can buy light meals here. 
 
-**6**   Visitors can see how food was prepared in the past. 
+**6**   Visitors can see how food was prepared in the past. 
 
-**7**   You can visit modern imitations of old buildings here. 
+**7**   You can visit modern imitations of old buildings here. 
 
 
 ### **Questions 8-14** 
