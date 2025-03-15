@@ -31,7 +31,7 @@ _In boxes_ _**8-14**_ _on your answer sheet, write_
 
 _**TRUE**_               _if the statement agrees with the information_
 
-_**FALSE**_             _if the statement contradicts the information_
+_**FALSE**_              _if the statement contradicts the information_
 
 _**NOT**_ _**GIVEN**_         _if there is no information on this_
 
