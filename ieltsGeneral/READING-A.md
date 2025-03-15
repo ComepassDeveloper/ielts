@@ -6,7 +6,7 @@ For which visitor attraction are the following statements true?
 
 _Write the correct letter,_ _**A-F**_, in boxes_ _**1-7**_ _on your answer sheet._
 
-_**NB**_   _You may use any letter more than once._
+_**NB**_    _You may use any letter more than once._
 
 **1**   Visitors can look at animals from another part of the world. 
 
