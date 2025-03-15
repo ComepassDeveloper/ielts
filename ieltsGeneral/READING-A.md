@@ -78,7 +78,7 @@ _Write your answers in boxes_ _**15-21**_ _on your answer sheet._
 
 _Complete the sentences below._ 
 
-_Choose _**ONE WORD ONLY**_ _from the text for each answer._ 
+_Choose_ _**ONE WORD ONLY**_ _from the text for each answer._ 
 
 _Write your answers in boxes_ _**22-27**_ _on your answer sheet._ 
 
