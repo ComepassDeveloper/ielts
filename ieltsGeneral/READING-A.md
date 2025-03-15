@@ -29,7 +29,7 @@ Do the following statements agree with the information given in the text?
 
 _In boxes_ _**8-14**_ _on your answer sheet, write_
 
-_**TRUE**_              _if the statement agrees with the information_
+_**TRUE**_               _if the statement agrees with the information_
 
 _**FALSE**_             _if the statement contradicts the information_
 
