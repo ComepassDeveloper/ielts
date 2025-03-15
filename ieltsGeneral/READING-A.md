@@ -27,7 +27,7 @@ _**NB**_   _You may use any letter more than once._
 
 Do the following statements agree with the information given in the text?
 
-_In boxes 8-14_ _on your answer sheet, write_
+_In boxes_ _**8-14**_ _on your answer sheet, write_
 
 _**TRUE**_              _if the statement agrees with the information_
 
@@ -35,19 +35,19 @@ _**FALSE**_             _if the statement contradicts the information_
 
 _**NOT**_ _**GIVEN**_         _if there is no information on this_
 
-**8**   A paraglider is more comfortable than a parachute. 
+**8**   A paraglider is more comfortable than a parachute. 
 
-**9**   Most paragliding schools are situated by the sea. 
+**9**   Most paragliding schools are situated by the sea. 
 
-**10**   Learners must pass a theory test in order to get their licence. 
+**10**   Learners must pass a theory test in order to get their licence. 
 
-**11**   Learners are able to paraglide unaccompanied after a week’s course. 
+**11**   Learners are able to paraglide unaccompanied after a week’s course. 
 
-**12**   It is advisable to purchase some equipment before you do your training. 
+**12**   It is advisable to purchase some equipment before you do your training. 
 
-**13**   Fit people of any age can take up paragliding. 
+**13**   Fit people of any age can take up paragliding. 
 
-**14**   The preliminary uphill walk may strain some of your muscles.
+**14**   The preliminary uphill walk may strain some of your muscles.
 
 ---
 
@@ -55,23 +55,23 @@ _**NOT**_ _**GIVEN**_         _if there is no information on this_
 
 _Complete the sentences below._
 
-_Choose _**ONE WORD ONLY**_ _from the text for each answer._ 
+_Choose_ _**ONE WORD ONLY**_ _from the text for each answer._ 
 
 _Write your answers in boxes_ _**15-21**_ _on your answer sheet._ 
 
-**15**   By preparing for your interview, you will gain ………………… which will help you present yourself well. 
+**15**   By preparing for your interview, you will gain ………………… which will help you present yourself well. 
 
-**16**   Read through any documents you have received about the company and also go to their ………………… . 
+**16**   Read through any documents you have received about the company and also go to their ………………… . 
 
-**17**   Check the job description to find out what ………………… are involved in the post you have applied for. 
+**17**   Check the job description to find out what ………………… are involved in the post you have applied for. 
 
-**18**   Interviewers may be interested to hear about any unpaid help you have given to a ………………… . 
+**18**   Interviewers may be interested to hear about any unpaid help you have given to a ………………… . 
 
-**19**   Be ready to talk about your ………………… for the development of your career. 
+**19**   Be ready to talk about your ………………… for the development of your career. 
 
-**20**   Explain any ………………… that there are in your work record and clarify how you used the time to improve your skills. 
+**20**   Explain any ………………… that there are in your work record and clarify how you used the time to improve your skills. 
 
-**21**   Questions about ………………… should be delayed until a later stage. 
+**21**   Questions about ………………… should be delayed until a later stage. 
 
 
 ### **Questions 22-27**
