@@ -126,35 +126,35 @@ _Write the correct number,_ _**i-ix**_, _in boxes_ _**28-33**_ _on your answer s
 
 **List of headings** 
 
-**i**       The need for population reduction 
+**i**   The need for population reduction 
 
-**ii**      The problem with being a fussy eater 
+**ii**   The problem with being a fussy eater 
 
-**iii**     Reproductive patterns 
+**iii**   Reproductive patterns 
 
-**iv**     The need for further research 
+**iv**   The need for further research 
 
-**v**      A possible solution to falling numbers 
+**v**   A possible solution to falling numbers 
 
-**vi**     The fastest runners 
+**vi**   The fastest runners 
 
-**vii**    A rather lonely beginning 
+**vii**   A rather lonely beginning 
 
-**viii**   A comparison between past and present survival rates 
+**viii**   A comparison between past and present survival rates 
 
-**ix**     Useful physical features 
+**ix**   Useful physical features 
 
-**28**   Paragraph **A** 
+**28**   Paragraph **A** 
 
-**29**   Paragraph **B** 
+**29**   Paragraph **B** 
 
-**30**   Paragraph **C** 
+**30**   Paragraph **C** 
 
-**31**   Paragraph **D** 
+**31**   Paragraph **D** 
 
-**32**   Paragraph **E** 
+**32**   Paragraph **E** 
 
-**33**   Paragraph **F** 
+**33**   Paragraph **F** 
 
 
 ### **Questions 34-36**
@@ -163,42 +163,42 @@ _Choose the correct letter,_ _**A**_, _**B**_, _**C**_, _or_ _**D**_.
 
 _Write the correct letter in boxes_ _**34-36**_ _on your answer sheet._
 
-**34**   According to the writer, what is the ideal habitat for hares? 
+**34**   According to the writer, what is the ideal habitat for hares? 
 
-**A**   open grassland which they can run across 
+**A**   open grassland which they can run across 
 
-**B**   densely wooded areas to breed in 
+**B**   densely wooded areas to breed in 
 
-**C**   areas which include a range of vegetation 
+**C**   areas which include a range of vegetation 
 
-**D**   land that has been farmed intensively for years 
+**D**   land that has been farmed intensively for years 
 
-**35**   When leverets are living alone they are not visited often by their mother because 
+**35**   When leverets are living alone they are not visited often by their mother because 
 
-**A**   this helps to protect them from being eaten by other animals. 
+**A**   this helps to protect them from being eaten by other animals. 
 
-**B**   the ‘forms’ are so far apart. 
+**B**   the ‘forms’ are so far apart. 
 
-**C**   they are very energetic from a surprisingly early age. 
+**C**   they are very energetic from a surprisingly early age. 
 
-**D**   they know how to find their own food from birth. 
+**D**   they know how to find their own food from birth. 
 
-**36**   What does the writer suggest about the adult hares’ diet? 
+**36**   What does the writer suggest about the adult hares’ diet? 
 
-**A**   They need some plants with a high fat content. 
+**A**   They need some plants with a high fat content. 
 
-**B**   They need time to digest the plants that they eat. 
+**B**   They need time to digest the plants that they eat. 
 
-**C**   It is difficult for them to adapt to changes in vegetation. 
+**C**   It is difficult for them to adapt to changes in vegetation. 
 
-**D**   It is vital for them to have a supply of one particular herb. 
+**D**   It is vital for them to have a supply of one particular herb. 
 
 
 ### **Questions 37-40**
 
 _Complete the summary below._
 
-_Choose _**ONE WORD ONLY**_ _from the text for each answer._ 
+_Choose_ _**ONE WORD ONLY**_ _from the text for each answer._ 
 
 _Write your answers in boxes_ _**37-40**_ _on your answer sheet._
 
