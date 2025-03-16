@@ -9,19 +9,25 @@ _Write the correct letter,_ _**A-F**_, _in boxes_ _**1-7**_ _on your answer shee
 _**NB**_   _You may use any letter more than once._
 
 **1**   Visitors can look at animals from another part of the world. 
+<!-- 3 -->
 
 **2**   People can hold a business conference in this place. 
+<!-- 3 -->
 
 **3**   Visitors can find out what toys were used in the last century. 
+<!-- 3 -->
 
 **4**   Activities are available all year round here. 
+<!-- 3 -->
 
 **5**   You can buy light meals here. 
+<!-- 3 -->
 
 **6**   Visitors can see how food was prepared in the past. 
+<!-- 3 -->
 
 **7**   You can visit modern imitations of old buildings here. 
-
+<!-- 3 -->
 
 ### **Questions 8-14** 
 
@@ -36,18 +42,25 @@ _**FALSE**_              _if the statement contradicts the informat
 _**NOT**_ _**GIVEN**_     _if there is no information on this_
 
 **8**   A paraglider is more comfortable than a parachute. 
+<!-- 1 -->
 
 **9**   Most paragliding schools are situated by the sea. 
+<!-- 1 -->
 
 **10**   Learners must pass a theory test in order to get their licence. 
+<!-- 1 -->
 
 **11**   Learners are able to paraglide unaccompanied after a week’s course. 
+<!-- 1 -->
 
 **12**   It is advisable to purchase some equipment before you do your training. 
+<!-- 1 -->
 
 **13**   Fit people of any age can take up paragliding. 
+<!-- 1 -->
 
 **14**   The preliminary uphill walk may strain some of your muscles.
+<!-- 1 -->
 
 ---
 
@@ -60,19 +73,25 @@ _Choose_ _**ONE WORD ONLY**_ _from the text for each answer._
 _Write your answers in boxes_ _**15-21**_ _on your answer sheet._ 
 
 **15**   By preparing for your interview, you will gain ………………… which will help you present yourself well. 
+<!-- 3 -->
 
 **16**   Read through any documents you have received about the company and also go to their ………………… . 
+<!-- 3 -->
 
 **17**   Check the job description to find out what ………………… are involved in the post you have applied for. 
+<!-- 3 -->
 
 **18**   Interviewers may be interested to hear about any unpaid help you have given to a ………………… . 
+<!-- 3 -->
 
 **19**   Be ready to talk about your ………………… for the development of your career. 
+<!-- 3 -->
 
 **20**   Explain any ………………… that there are in your work record and clarify how you used the time to improve your skills. 
+<!-- 3 -->
 
 **21**   Questions about ………………… should be delayed until a later stage. 
-
+<!-- 3 -->
 
 ### **Questions 22-27**
 
@@ -83,14 +102,17 @@ _Choose_ _**ONE WORD ONLY**_ _from the text for each answer._
 _Write your answers in boxes_ _**22-27**_ _on your answer sheet._ 
 
 **Step 1:**
+<!-- 3 -->
 
 Decide who you are going to sell to and compare yourself with the **22**………………… you are going to have. 
 
 **Step 2:**
+<!-- 3 -->
 
 Consider how you will market your product and your method of **23**………………… . 
 
 **Step 3:**
+<!-- 3 -->
 
 Decide if you will have to find **24**………………… to work in, or buy equipment. 
 
@@ -99,10 +121,12 @@ Decide if you will have to find **24**………………… to work in, or buy e
 Think whether you will need to take on staff as your business grows. 
 
 **Step 5:**
+<!-- 3 -->
 
 Make sure you deal with the accounts and other essentials in accordance with the **25**………………… . 
 
 **Step 6:**
+<!-- 3 -->
 
 Calculate all the **26**………………… involved in your business when deciding how much to charge. 
 
@@ -111,6 +135,7 @@ Calculate all the **26**………………… involved in your business when dec
 Calculate the turnover you are aiming for in order to make a profit in the first three years. 
 
 **Step 8:**
+<!-- 3 -->
 
 Consider if you require any **27**………………… to start your business, and where to find it. 
 
@@ -145,17 +170,22 @@ _Write the correct number,_ _**i-ix**_, _in boxes_ _**28-33**_ _on your answer s
 **ix**   Useful physical features 
 
 **28**   Paragraph **A** 
+<!-- 3 -->
 
 **29**   Paragraph **B** 
+<!-- 3 -->
 
 **30**   Paragraph **C** 
+<!-- 3 -->
 
 **31**   Paragraph **D** 
+<!-- 3 -->
 
 **32**   Paragraph **E** 
+<!-- 3 -->
 
 **33**   Paragraph **F** 
-
+<!-- 3 -->
 
 ### **Questions 34-36**
 
@@ -164,6 +194,7 @@ _Choose the correct letter,_ _**A**_, _**B**_, _**C**_, _or_ _**D**_.
 _Write the correct letter in boxes_ _**34-36**_ _on your answer sheet._
 
 **34**   According to the writer, what is the ideal habitat for hares? 
+<!-- 3 -->
 
 **A**   open grassland which they can run across 
 
@@ -174,6 +205,7 @@ _Write the correct letter in boxes_ _**34-36**_ _on your answer sheet._
 **D**   land that has been farmed intensively for years 
 
 **35**   When leverets are living alone they are not visited often by their mother because 
+<!-- 3 -->
 
 **A**   this helps to protect them from being eaten by other animals. 
 
@@ -184,6 +216,7 @@ _Write the correct letter in boxes_ _**34-36**_ _on your answer sheet._
 **D**   they know how to find their own food from birth. 
 
 **36**   What does the writer suggest about the adult hares’ diet? 
+<!-- 3 -->
 
 **A**   They need some plants with a high fat content. 
 
@@ -195,6 +228,13 @@ _Write the correct letter in boxes_ _**34-36**_ _on your answer sheet._
 
 
 ### **Questions 37-40**
+<!-- 3 -->
+
+<!-- 3 -->
+
+<!-- 3 -->
+
+<!-- 3 -->
 
 _Complete the summary below._
 
