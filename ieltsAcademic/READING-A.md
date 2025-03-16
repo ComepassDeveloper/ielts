@@ -1,4 +1,4 @@
-### **Questions 1–7**
+![image](https://github.com/user-attachments/assets/6548d7da-c629-45e4-85ba-caa3327db486)### **Questions 1–7**
 
 Do the following statements agree with the information given in Reading Passage 1?
 
@@ -42,23 +42,17 @@ _Write your answers in boxes_ _**8–13**_ _on your answer sheet._
 **The tennis racket and how it has changed**
 -----------------------------------
 
-●   Mike and Bob Bryan made changes to the types of **8**………………… used on their racket frames.
-<!-- 3 -->
+●   Mike and Bob Bryan made changes to the types of **8** <!-- 3 --> used on their racket frames.
 
-●   Players were not allowed to use the spaghetti-strung racket because of the amount of **9**………………… it created.
-<!-- 3 -->
+●   Players were not allowed to use the spaghetti-strung racket because of the amount of **9** <!-- 3 --> it created.
 
-●   Changes to rackets can be regarded as being as important as players’ diets or the **10**………………… they do.
-<!-- 3 -->
+●   Changes to rackets can be regarded as being as important as players’ diets or the **10** <!-- 3 --> they do.
 
-●   All rackets used to have natural strings made from the **11**………………… of animals.
-<!-- 3 -->
+●   All rackets used to have natural strings made from the **11** <!-- 3 --> of animals.
 
-●   Pete Sampras had metal **12**………………… put into the frames of his rackets.
-<!-- 3 -->
+●   Pete Sampras had metal **12** <!-- 3 --> put into the frames of his rackets.
 
-●   Gonçalo Oliveira changed the **13**………………… on his racket handles.
-<!-- 3 -->
+●   Gonçalo Oliveira changed the **13** <!-- 3 --> on his racket handles.
 
 ---
 
@@ -133,11 +127,6 @@ Which **TWO** of the following statements does the writer make about piracy an
 **E**   A favourable view of piracy is evident in certain ancient Greek texts.
 
 ### **Questions 24–26**
-<!-- 3 -->
-
-<!-- 3 -->
-
-<!-- 3 -->
 
 _Complete the summary below._
 
@@ -148,7 +137,7 @@ _Write your answers in boxes_ _**24–26**_ _on your answer sheet._
 **Ancient Rome and piracy**
 -----------------------------------
 
-Piracy was an issue ancient Rome had to deal with, but it also brought some benefits for Rome. For example, pirates supplied slaves that were important for Rome’s industries. However, attacks on vessels transporting **24**………………… to Rome resulted in calls for **25**…………………for the pirates responsible. Nevertheless, piracy continued, with some pirates demanding a **26**………………… for the return of the Roman officials they captured.
+Piracy was an issue ancient Rome had to deal with, but it also brought some benefits for Rome. For example, pirates supplied slaves that were important for Rome’s industries. However, attacks on vessels transporting **24** <!-- 3 --> to Rome resulted in calls for **25** <!-- 3 --> for the pirates responsible. Nevertheless, piracy continued, with some pirates demanding a **26** <!-- 3 --> for the return of the Roman officials they captured.
 
 ---
 
@@ -203,17 +192,6 @@ _Write the correct letter in boxes_ _**27–30**_ _on your answer sheet._
 **D**   Regulation fails to prevent misinformation from appearing in the media.
 
 ### **Questions 31–36**
-<!-- 3 -->
-
-<!-- 3 -->
-
-<!-- 3 -->
-
-<!-- 3 -->
-
-<!-- 3 -->
-
-<!-- 3 -->
 
 _Complete the summary using the list of phrases,_ _**A–J**_, below
 
@@ -222,7 +200,7 @@ _Write the correct letter,_ _**A–J**_, _in boxes_ _**31–36**_ _on your answ
 **What happens when people encounter misinformation?**
 -----------------------------------
 
-Although people have **31**……………… to misinformation, there is debate about precisely how and when we label something as true or untrue. The philosophers Descartes and Spinoza had **32**……………… about how people engage with information. While Descartes believed that people accept or reject information after considering whether it is true or not, Spinoza argued that people accepted all information they encountered (and by default misinformation) and did not verify or reject it until afterwards. Moreover, Spinoza believes that a distinct **33**……………… is involved in these stages. Recent research has provided **34**……………… for Spinoza’s theory and it would appear that people accept all encountered information as if it were true, even if this is for an extremely **35**………………, and do not label the information as true or false until later. This is consistent with the fact that the resources for scepticism and the resources for perceiving and encoding are in **36**……………… in the brain.
+Although people have **31** <!-- 3 --> to misinformation, there is debate about precisely how and when we label something as true or untrue. The philosophers Descartes and Spinoza had **32** <!-- 3 --> about how people engage with information. While Descartes believed that people accept or reject information after considering whether it is true or not, Spinoza argued that people accepted all information they encountered (and by default misinformation) and did not verify or reject it until afterwards. Moreover, Spinoza believes that a distinct **33** <!-- 3 --> is involved in these stages. Recent research has provided **34** <!-- 3 --> for Spinoza’s theory and it would appear that people accept all encountered information as if it were true, even if this is for an extremely **35** <!-- 3 -->, and do not label the information as true or false until later. This is consistent with the fact that the resources for scepticism and the resources for perceiving and encoding are in **36** <!-- 3 --> in the brain.
 
 **A**   constant conflict
 
