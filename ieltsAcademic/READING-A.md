@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/6548d7da-c629-45e4-85ba-caa3327db486)### **Questions 1–7**
+### **Questions 1–7**
 
 Do the following statements agree with the information given in Reading Passage 1?
 
