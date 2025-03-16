@@ -91,6 +91,9 @@ _**NB**_   _You may use any letter more than once._
 <!-- 3 -->
 
 ### **Questions 20 and 21**
+<!-- 3 -->
+
+<!-- 3 -->
 
 _Choose_ _**TWO**_ _letters,_ _**A–E**_.
 
@@ -109,6 +112,9 @@ Which **TWO** of the following statements does the writer make about inhabitan
 **E**   They stored many of the goods taken in pirate attacks in coves along the coastline.
 
 ### **Questions 22 and 23**
+<!-- 3 -->
+
+<!-- 3 -->
 
 _Choose_ _**TWO**_ _letters,_ _**A–E**_.
 
@@ -127,6 +133,11 @@ Which **TWO** of the following statements does the writer make about piracy an
 **E**   A favourable view of piracy is evident in certain ancient Greek texts.
 
 ### **Questions 24–26**
+<!-- 3 -->
+
+<!-- 3 -->
+
+<!-- 3 -->
 
 _Complete the summary below._
 
@@ -148,6 +159,7 @@ _Choose the correct letter,_ _**A**_, _**B**_, _**C**_ _or_ _**D**_.
 _Write the correct letter in boxes_ _**27–30**_ _on your answer sheet._
 
 **27**   What point does the writer make about misinformation in the first paragraph?
+<!-- 3 -->
 
 **A**   Misinformation is a relatively recent phenomenon.
 
@@ -158,6 +170,7 @@ _Write the correct letter in boxes_ _**27–30**_ _on your answer sheet._
 **D**   There may be a number of reasons for the spread of misinformation.
 
 **28**   What does the writer say about the role of technology?
+<!-- 3 -->
 
 **A**   It may at some point provide us with a solution to misinformation.
 
@@ -168,6 +181,7 @@ _Write the correct letter in boxes_ _**27–30**_ _on your answer sheet._
 **D**   It has made it easier for people to check whether information is accurate.
 
 **29**   What is the writer doing in the fourth paragraph?
+<!-- 3 -->
 
 **A**   comparing the different opinions people have of misinformation.
 
@@ -178,6 +192,7 @@ _Write the correct letter in boxes_ _**27–30**_ _on your answer sheet._
 **D**   describing the attitude of policy makers towards misinformation in the media
 
 **30**   What point does the writer make about regulation in the USA?
+<!-- 3 -->
 
 **A**   The guidelines issued by the FDA need to be simplified.
 
@@ -188,6 +203,17 @@ _Write the correct letter in boxes_ _**27–30**_ _on your answer sheet._
 **D**   Regulation fails to prevent misinformation from appearing in the media.
 
 ### **Questions 31–36**
+<!-- 3 -->
+
+<!-- 3 -->
+
+<!-- 3 -->
+
+<!-- 3 -->
+
+<!-- 3 -->
+
+<!-- 3 -->
 
 _Complete the summary using the list of phrases,_ _**A–J**_, below
 
@@ -231,9 +257,13 @@ _**NO**_                   _if the statement contradicts the c
 _**NOT**_ _**GIVEN**_     _if it is impossible to say what the writer thinks about this_
 
 **37**   Campaigns designed to correct misinformation will fail to achieve their purpose if people are unable to understand them.
+<!-- 2 -->
 
 **38**   Attempts to teach elementary school students about misinformation have been opposed.
+<!-- 2 -->
 
 **39**   It may be possible to overcome the problem of misinformation in a relatively short period.
+<!-- 2 -->
 
 **40**   The need to keep up with new information is hugely exaggerated in today’s world.
+<!-- 2 -->
