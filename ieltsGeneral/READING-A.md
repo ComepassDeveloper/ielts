@@ -72,26 +72,19 @@ _Choose_ _**ONE WORD ONLY**_ _from the text for each answer._
 
 _Write your answers in boxes_ _**15-21**_ _on your answer sheet._ 
 
-**15**   By preparing for your interview, you will gain ………………… which will help you present yourself well. 
-<!-- 3 -->
+**15**   By preparing for your interview, you will gain <!-- 3 --> which will help you present yourself well. 
 
-**16**   Read through any documents you have received about the company and also go to their ………………… . 
-<!-- 3 -->
+**16**   Read through any documents you have received about the company and also go to their <!-- 3 --> . 
 
-**17**   Check the job description to find out what ………………… are involved in the post you have applied for. 
-<!-- 3 -->
+**17**   Check the job description to find out what <!-- 3 --> are involved in the post you have applied for. 
 
-**18**   Interviewers may be interested to hear about any unpaid help you have given to a ………………… . 
-<!-- 3 -->
+**18**   Interviewers may be interested to hear about any unpaid help you have given to a <!-- 3 --> . 
 
-**19**   Be ready to talk about your ………………… for the development of your career. 
-<!-- 3 -->
+**19**   Be ready to talk about your <!-- 3 --> for the development of your career. 
 
-**20**   Explain any ………………… that there are in your work record and clarify how you used the time to improve your skills. 
-<!-- 3 -->
+**20**   Explain any <!-- 3 --> that there are in your work record and clarify how you used the time to improve your skills. 
 
-**21**   Questions about ………………… should be delayed until a later stage. 
-<!-- 3 -->
+**21**   Questions about <!-- 3 --> should be delayed until a later stage. 
 
 ### **Questions 22-27**
 
@@ -102,42 +95,36 @@ _Choose_ _**ONE WORD ONLY**_ _from the text for each answer._
 _Write your answers in boxes_ _**22-27**_ _on your answer sheet._ 
 
 **Step 1:**
-<!-- 3 -->
 
-Decide who you are going to sell to and compare yourself with the **22**………………… you are going to have. 
+Decide who you are going to sell to and compare yourself with the **22** <!-- 3 --> you are going to have. 
 
 **Step 2:**
-<!-- 3 -->
 
-Consider how you will market your product and your method of **23**………………… . 
+Consider how you will market your product and your method of **23** <!-- 3 --> . 
 
 **Step 3:**
-<!-- 3 -->
 
-Decide if you will have to find **24**………………… to work in, or buy equipment. 
+Decide if you will have to find **24** <!-- 3 --> to work in, or buy equipment. 
 
 **Step 4:**
 
 Think whether you will need to take on staff as your business grows. 
 
 **Step 5:**
-<!-- 3 -->
 
-Make sure you deal with the accounts and other essentials in accordance with the **25**………………… . 
+Make sure you deal with the accounts and other essentials in accordance with the **25** <!-- 3 --> . 
 
 **Step 6:**
-<!-- 3 -->
 
-Calculate all the **26**………………… involved in your business when deciding how much to charge. 
+Calculate all the **26** <!-- 3 --> involved in your business when deciding how much to charge. 
 
 **Step 7:** 
 
 Calculate the turnover you are aiming for in order to make a profit in the first three years. 
 
 **Step 8:**
-<!-- 3 -->
 
-Consider if you require any **27**………………… to start your business, and where to find it. 
+Consider if you require any **27** <!-- 3 --> to start your business, and where to find it. 
 
 ---
 
@@ -228,13 +215,6 @@ _Write the correct letter in boxes_ _**34-36**_ _on your answer sheet._
 
 
 ### **Questions 37-40**
-<!-- 3 -->
-
-<!-- 3 -->
-
-<!-- 3 -->
-
-<!-- 3 -->
 
 _Complete the summary below._
 
@@ -244,7 +224,7 @@ _Write your answers in boxes_ _**37-40**_ _on your answer sheet._
 
 **Brown hares** 
 
-The brown hare is well known for its ability to run fast, at speeds of up to 70 kph, largely due to the length of its legs as well as the unusual size of its heart. An increased amount of blood also gives it the necessary **37**………………… to continue running fast for some time. A running hare resembles the **38**………………… more closely than its relative, the rabbit. 
+The brown hare is well known for its ability to run fast, at speeds of up to 70 kph, largely due to the length of its legs as well as the unusual size of its heart. An increased amount of blood also gives it the necessary **37** <!-- 3 --> to continue running fast for some time. A running hare resembles the **38** <!-- 3 --> more closely than its relative, the rabbit. 
 
-The hare has some other characteristics that help it to avoid capture. The first is its excellent all-round **39**………………… .This means that predators cannot easily creep up behind it. Another feature is its ability to position its massive **40**………………… separately, to sense the slightest indication of danger. 
+The hare has some other characteristics that help it to avoid capture. The first is its excellent all-round **39** <!-- 3 --> .This means that predators cannot easily creep up behind it. Another feature is its ability to position its massive **40** <!-- 3 --> separately, to sense the slightest indication of danger. 
 
