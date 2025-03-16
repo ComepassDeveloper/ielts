@@ -12,7 +12,9 @@ _Write_ _**ONE WORD AND/OR A NUMBER**_ _for each answer._
 -----------------------------------
 
 **The park**
+<!-- 3 -->
 
+<!-- 3 -->
 
 Area: **1**…………………. hectares
 
@@ -22,8 +24,15 @@ Wetland: lakes, ponds and a **2**………………….
 
 Wildlife includes birds, insects and animals
 
-**Subjects studied in educational visits include**
 
+**Subjects studied in educational visits include**
+<!-- 3 -->
+
+<!-- 3 -->
+
+<!-- 3 -->
+
+<!-- 3 -->
 
 Science: Children look at **3**…………………. about plants, etc.
 
@@ -35,13 +44,21 @@ Leisure and tourism: mostly concentrates on the park’s **5**……………�
 
 Music: Children make **6**…………………. with natural materials, and experiment with rhythm and speed.
 
+
 **Benefits of outdoor educational visits**
+<!-- 3 -->
+
+<!-- 3 -->
 
 They give children a feeling of **7**…………………. that they may not have elsewhere.
 
 Children learn new **8**…………………. and gain self-confidence.
 
+
 **Practical issues**
+<!-- 3 -->
+
+<!-- 3 -->
 
 Cost per child: **9** £………………….
 
@@ -55,8 +72,8 @@ _Choose the correct letter_ _**A**_, _**B**_ _or_ _**C**_.
 
 **Stanthorpe Twinning Association**
 
-
 **11**   During the visit to Malatte, in France, members especially enjoyed
+<!-- 3 -->
 
 **A**   going to a theme park.
 
@@ -65,6 +82,7 @@ _Choose the correct letter_ _**A**_, _**B**_ _or_ _**C**_.
 **C**   visiting a cheese factory.
 
 **12**   What will happen in Stanthorpe to mark the 25th anniversary of the Twinning Association?
+<!-- 3 -->
 
 **A**   A tree will be planted.
 
@@ -73,6 +91,7 @@ _Choose the correct letter_ _**A**_, _**B**_ _or_ _**C**_.
 **C**   A footbridge will be built.
 
 **13**   Which event raised most funds this year?
+<!-- 3 -->
 
 **A**   the film show
 
@@ -81,6 +100,7 @@ _Choose the correct letter_ _**A**_, _**B**_ _or_ _**C**_.
 **C**   the cookery demonstration
 
 **14**   For the first evening with the French visitors host families are advised to
+<!-- 3 -->
 
 **A**   take them for a walk round the town.
 
@@ -89,6 +109,7 @@ _Choose the correct letter_ _**A**_, _**B**_ _or_ _**C**_.
 **C**   have a meal at home.
 
 **15**   On Saturday evening there will be the chance to
+<!-- 3 -->
 
 **A**   listen to a concert.
 
@@ -104,20 +125,27 @@ _Write the correct letter,_ _**A–H**_, next to Questions 16–20.
 
 ![Alt text](https://cdn.jsdelivr.net/gh/ComepassDeveloper/ielts@main/ieltsGeneral/listening-image.jpg)
 
-
 **16**   Farm shop   ……………
+<!-- 3 -->
 
 **17**   Disabled entry   ……………
+<!-- 3 -->
 
 **18**   Adventure playground   ……………
+<!-- 3 -->
 
 **19**   Kitchen gardens   ……………
+<!-- 3 -->
 
 **20**   The Temple of the Four Winds   ……………
+<!-- 3 -->
 
 ## **PART 3**
 
 ### **Questions 21 and 22**
+<!-- 3 -->
+
+<!-- 3 -->
 
 _Choose_ _**TWO**_ _letters,_ _**A–E**_.
 
@@ -134,6 +162,9 @@ Which **TWO** things did Colin find most satisfying about his bread reuse proj
 **E**   learning how to apply 3-D priting
 
 ### **Questions 23 and 24**
+<!-- 3 -->
+
+<!-- 3 -->
 
 _Choose_ _**TWO**_ _letters,_ _**A–E**_.
 
@@ -177,16 +208,22 @@ _Choose_ _**SIX**_ _answers from the box and write the correct answer,_ _**A�
 **Food trends**
 
 **25**   Use of local products   ……………
+<!-- 3 -->
 
 **26**   Reduction in unnecessary packaging   ……………
+<!-- 3 -->
 
 **27**   Gluten-free and lactose-free food   ……………
+<!-- 3 -->
 
 **28**   Use of branded products related to celebrity chefs   ……………
+<!-- 3 -->
 
 **29**   Development of ‘ghost kitchens’ for takeaway food   ……………
+<!-- 3 -->
 
 **30**   Use of mushrooms for common health concerns   ……………
+<!-- 3 -->
 
 ## **PART 4**
 
@@ -201,6 +238,13 @@ _Write_ _**ONE WORD ONLY**_ _for each answer._
 ●   an important Neolithic archaeological site in the northwest of Ireland
 
 **Discovery**
+<!-- 3 -->
+
+<!-- 3 -->
+
+<!-- 3 -->
+
+<!-- 3 -->
 
 ●   In the 1930s, a local teacher realised that stones beneath the bog surface were once **31**…………………… .
 
@@ -212,8 +256,15 @@ _Write_ _**ONE WORD ONLY**_ _for each answer._
 
 ●   Items are well preserved in the bog because of a lack of **34**…………………… .
 
-**Neolithic farmers**
 
+**Neolithic farmers**
+<!-- 3 -->
+
+<!-- 3 -->
+
+<!-- 3 -->
+
+<!-- 3 -->
 
 ●   Houses were **35**…………………… in shape and had a hole in the roof.
 
@@ -227,8 +278,11 @@ _Write_ _**ONE WORD ONLY**_ _for each answer._
 
 ●   The fields were probably used to restrict the grazing of animals – no evidence of structurers to house them during **38**…………………… .
 
-**Reasons for the decline in farming**
 
+**Reasons for the decline in farming**
+<!-- 3 -->
+
+<!-- 3 -->
 
 ●   a decline in **39**…………………… quality
 
