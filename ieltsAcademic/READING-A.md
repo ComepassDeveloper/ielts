@@ -11,25 +11,25 @@ _**FALSE**_              _if the statement contradicts the informat
 _**NOT**_ _**GIVEN**_     _if there is no information on this_
 
 **1**   People had expected Andy Murray to become the world’s top tennis player for at least five years before 2016.
-<input class="text">
+<input type="text">
 
 **2**   The change that Andy Murray made to his rackets attracted a lot of attention.
-<input class="text">
+<input type="text">
 
 **3**   Most of the world’s top players take a professional racket stringer on tour with them.
-<input class="text">
+<input type="text">
 
 **4**   Mike and Bob Bryan use rackets that are light in comparison to the majority of rackets.
-<input class="text">
+<input type="text">
 
 **5**   Werner Fischer played with a spaghetti-strung racket that he designed himself.
-<input class="text">
+<input type="text">
 
 **6**   The weather can affect how professional players adjust the strings on their rackets.
-<input class="text">
+<input type="text">
 
 **7**   It was believed that the change Pete Sampras made to his rackets contributed to his strong serve.
-<input class="text">
+<input type="text">
 
 ### **Questions 8–13**
 
