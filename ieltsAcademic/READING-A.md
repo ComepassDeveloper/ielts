@@ -11,18 +11,25 @@ _**FALSE**_              _if the statement contradicts the informat
 _**NOT**_ _**GIVEN**_     _if there is no information on this_
 
 **1**   People had expected Andy Murray to become the world’s top tennis player for at least five years before 2016.
+<!-- 1 -->
 
 **2**   The change that Andy Murray made to his rackets attracted a lot of attention.
+<!-- 1 -->
 
 **3**   Most of the world’s top players take a professional racket stringer on tour with them.
+<!-- 1 -->
 
 **4**   Mike and Bob Bryan use rackets that are light in comparison to the majority of rackets.
+<!-- 1 -->
 
 **5**   Werner Fischer played with a spaghetti-strung racket that he designed himself.
+<!-- 1 -->
 
 **6**   The weather can affect how professional players adjust the strings on their rackets.
+<!-- 1 -->
 
 **7**   It was believed that the change Pete Sampras made to his rackets contributed to his strong serve.
+<!-- 1 -->
 
 ### **Questions 8–13**
 
@@ -36,16 +43,22 @@ _Write your answers in boxes_ _**8–13**_ _on your answer sheet._
 -----------------------------------
 
 ●   Mike and Bob Bryan made changes to the types of **8**………………… used on their racket frames.
+<!-- 3 -->
 
 ●   Players were not allowed to use the spaghetti-strung racket because of the amount of **9**………………… it created.
+<!-- 3 -->
 
 ●   Changes to rackets can be regarded as being as important as players’ diets or the **10**………………… they do.
+<!-- 3 -->
 
 ●   All rackets used to have natural strings made from the **11**………………… of animals.
+<!-- 3 -->
 
 ●   Pete Sampras had metal **12**………………… put into the frames of his rackets.
+<!-- 3 -->
 
 ●   Gonçalo Oliveira changed the **13**………………… on his racket handles.
+<!-- 3 -->
 
 ---
 
@@ -60,16 +73,22 @@ _Write the correct letter,_ _**A–G**_, _in boxes_ _**14–19**_ _on your answ
 _**NB**_   _You may use any letter more than once._
 
 **14**   a reference to a denial of involvement in piracy
+<!-- 3 -->
 
 **15**   details of how a campaign to eradicate piracy was carried out
+<!-- 3 -->
 
 **16**   a mention of the circumstances in which states in the ancient world would make use of pirates
+<!-- 3 -->
 
 **17**   a reference to how people today commonly view pirates
+<!-- 3 -->
 
 **18**   an explanation of how some people were encouraged not to return to piracy
+<!-- 3 -->
 
 **19**   a mention of the need for many sailing vessels to stay relatively close to land
+<!-- 3 -->
 
 ### **Questions 20 and 21**
 
