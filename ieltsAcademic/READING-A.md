@@ -42,17 +42,17 @@ _Write your answers in boxes_ _**8–13**_ _on your answer sheet._
 **The tennis racket and how it has changed**
 -----------------------------------
 
-●   Mike and Bob Bryan made changes to the types of **8** <!-- 3 --> used on their racket frames.
+●   Mike and Bob Bryan made changes to the types of **8** <input class="text-3"> used on their racket frames.
 
-●   Players were not allowed to use the spaghetti-strung racket because of the amount of **9** <!-- 3 --> it created.
+●   Players were not allowed to use the spaghetti-strung racket because of the amount of **9** <input class="text-3"> it created.
 
-●   Changes to rackets can be regarded as being as important as players’ diets or the **10** <!-- 3 --> they do.
+●   Changes to rackets can be regarded as being as important as players’ diets or the **10** <input class="text-3"> they do.
 
-●   All rackets used to have natural strings made from the **11** <!-- 3 --> of animals.
+●   All rackets used to have natural strings made from the **11** <input class="text-3"> of animals.
 
-●   Pete Sampras had metal **12** <!-- 3 --> put into the frames of his rackets.
+●   Pete Sampras had metal **12** <input class="text-3"> put into the frames of his rackets.
 
-●   Gonçalo Oliveira changed the **13** <!-- 3 --> on his racket handles.
+●   Gonçalo Oliveira changed the **13** <input class="text-3"> on his racket handles.
 
 ---
 
@@ -146,7 +146,6 @@ _Choose the correct letter,_ _**A**_, _**B**_, _**C**_ _or_ _**D**_.
 _Write the correct letter in boxes_ _**27–30**_ _on your answer sheet._
 
 **27**   What point does the writer make about misinformation in the first paragraph?
-<input class="text-1">
 
 **A**   Misinformation is a relatively recent phenomenon.
 
@@ -156,8 +155,9 @@ _Write the correct letter in boxes_ _**27–30**_ _on your answer sheet._
 
 **D**   There may be a number of reasons for the spread of misinformation.
 
-**28**   What does the writer say about the role of technology?
 <input class="text-1">
+
+**28**   What does the writer say about the role of technology?
 
 **A**   It may at some point provide us with a solution to misinformation.
 
@@ -167,8 +167,9 @@ _Write the correct letter in boxes_ _**27–30**_ _on your answer sheet._
 
 **D**   It has made it easier for people to check whether information is accurate.
 
-**29**   What is the writer doing in the fourth paragraph?
 <input class="text-1">
+
+**29**   What is the writer doing in the fourth paragraph?
 
 **A**   comparing the different opinions people have of misinformation.
 
@@ -178,8 +179,9 @@ _Write the correct letter in boxes_ _**27–30**_ _on your answer sheet._
 
 **D**   describing the attitude of policy makers towards misinformation in the media
 
-**30**   What point does the writer make about regulation in the USA?
 <input class="text-1">
+
+**30**   What point does the writer make about regulation in the USA?
 
 **A**   The guidelines issued by the FDA need to be simplified.
 
@@ -188,6 +190,8 @@ _Write the correct letter in boxes_ _**27–30**_ _on your answer sheet._
 **C**   The USA has more regulatory bodies than most other countries.
 
 **D**   Regulation fails to prevent misinformation from appearing in the media.
+
+<input class="text-1">
 
 ### **Questions 31–36**
 
