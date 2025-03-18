@@ -11,25 +11,25 @@ _**FALSE**_              _if the statement contradicts the informat
 _**NOT**_ _**GIVEN**_     _if there is no information on this_
 
 **1**   People had expected Andy Murray to become the world’s top tennis player for at least five years before 2016.
-<input type="text">
+<input class="true—false—notgiven">
 
 **2**   The change that Andy Murray made to his rackets attracted a lot of attention.
-<input type="text">
+<input class="true—false—notgiven">
 
 **3**   Most of the world’s top players take a professional racket stringer on tour with them.
-<input type="text">
+<input class="true—false—notgiven">
 
 **4**   Mike and Bob Bryan use rackets that are light in comparison to the majority of rackets.
-<input type="text">
+<input class="true—false—notgiven">
 
 **5**   Werner Fischer played with a spaghetti-strung racket that he designed himself.
-<input type="text">
+<input class="true—false—notgiven">
 
 **6**   The weather can affect how professional players adjust the strings on their rackets.
-<input type="text">
+<input class="true—false—notgiven">
 
 **7**   It was believed that the change Pete Sampras made to his rackets contributed to his strong serve.
-<input type="text">
+<input class="true—false—notgiven">
 
 ### **Questions 8–13**
 
@@ -67,27 +67,27 @@ _Write the correct letter,_ _**A–G**_, _in boxes_ _**14–19**_ _on your answ
 _**NB**_   _You may use any letter more than once._
 
 **14**   a reference to a denial of involvement in piracy
-<!-- 3 -->
+<input class="text-3">
 
 **15**   details of how a campaign to eradicate piracy was carried out
-<!-- 3 -->
+<input class="text-3">
 
 **16**   a mention of the circumstances in which states in the ancient world would make use of pirates
-<!-- 3 -->
+<input class="text-3">
 
 **17**   a reference to how people today commonly view pirates
-<!-- 3 -->
+<input class="text-3">
 
 **18**   an explanation of how some people were encouraged not to return to piracy
-<!-- 3 -->
+<input class="text-3">
 
 **19**   a mention of the need for many sailing vessels to stay relatively close to land
-<!-- 3 -->
+<input class="text-3">
 
 ### **Questions 20 and 21**
-<!-- 3 -->
+<input class="text-2">
 
-<!-- 3 -->
+<input class="text-2">
 
 _Choose_ _**TWO**_ _letters,_ _**A–E**_.
 
@@ -106,9 +106,9 @@ Which **TWO** of the following statements does the writer make about inhabitan
 **E**   They stored many of the goods taken in pirate attacks in coves along the coastline.
 
 ### **Questions 22 and 23**
-<!-- 3 -->
+<input class="text-2">
 
-<!-- 3 -->
+<input class="text-2">
 
 _Choose_ _**TWO**_ _letters,_ _**A–E**_.
 
@@ -148,7 +148,7 @@ _Choose the correct letter,_ _**A**_, _**B**_, _**C**_ _or_ _**D**_.
 _Write the correct letter in boxes_ _**27–30**_ _on your answer sheet._
 
 **27**   What point does the writer make about misinformation in the first paragraph?
-<!-- 3 -->
+<input class="text-1">
 
 **A**   Misinformation is a relatively recent phenomenon.
 
@@ -159,7 +159,7 @@ _Write the correct letter in boxes_ _**27–30**_ _on your answer sheet._
 **D**   There may be a number of reasons for the spread of misinformation.
 
 **28**   What does the writer say about the role of technology?
-<!-- 3 -->
+<input class="text-1">
 
 **A**   It may at some point provide us with a solution to misinformation.
 
@@ -170,7 +170,7 @@ _Write the correct letter in boxes_ _**27–30**_ _on your answer sheet._
 **D**   It has made it easier for people to check whether information is accurate.
 
 **29**   What is the writer doing in the fourth paragraph?
-<!-- 3 -->
+<input class="text-1">
 
 **A**   comparing the different opinions people have of misinformation.
 
@@ -181,7 +181,7 @@ _Write the correct letter in boxes_ _**27–30**_ _on your answer sheet._
 **D**   describing the attitude of policy makers towards misinformation in the media
 
 **30**   What point does the writer make about regulation in the USA?
-<!-- 3 -->
+<input class="text-1">
 
 **A**   The guidelines issued by the FDA need to be simplified.
 
@@ -200,7 +200,7 @@ _Write the correct letter,_ _**A–J**_, _in boxes_ _**31–36**_ _on your answ
 **What happens when people encounter misinformation?**
 -----------------------------------
 
-Although people have **31** <!-- 3 --> to misinformation, there is debate about precisely how and when we label something as true or untrue. The philosophers Descartes and Spinoza had **32** <!-- 3 --> about how people engage with information. While Descartes believed that people accept or reject information after considering whether it is true or not, Spinoza argued that people accepted all information they encountered (and by default misinformation) and did not verify or reject it until afterwards. Moreover, Spinoza believes that a distinct **33** <!-- 3 --> is involved in these stages. Recent research has provided **34** <!-- 3 --> for Spinoza’s theory and it would appear that people accept all encountered information as if it were true, even if this is for an extremely **35** <!-- 3 -->, and do not label the information as true or false until later. This is consistent with the fact that the resources for scepticism and the resources for perceiving and encoding are in **36** <!-- 3 --> in the brain.
+Although people have **31** <input class="text-3"> to misinformation, there is debate about precisely how and when we label something as true or untrue. The philosophers Descartes and Spinoza had **32** <input class="text-3"> about how people engage with information. While Descartes believed that people accept or reject information after considering whether it is true or not, Spinoza argued that people accepted all information they encountered (and by default misinformation) and did not verify or reject it until afterwards. Moreover, Spinoza believes that a distinct **33** <input class="text-3"> is involved in these stages. Recent research has provided **34** <input class="text-3"> for Spinoza’s theory and it would appear that people accept all encountered information as if it were true, even if this is for an extremely **35** <input class="text-3">, and do not label the information as true or false until later. This is consistent with the fact that the resources for scepticism and the resources for perceiving and encoding are in **36** <input class="text-3"> in the brain.
 
 **A**   constant conflict
 
@@ -235,13 +235,13 @@ _**NO**_                   _if the statement contradicts the c
 _**NOT**_ _**GIVEN**_     _if it is impossible to say what the writer thinks about this_
 
 **37**   Campaigns designed to correct misinformation will fail to achieve their purpose if people are unable to understand them.
-<!-- 2 -->
+<input class="yes—no—notgiven">
 
 **38**   Attempts to teach elementary school students about misinformation have been opposed.
-<!-- 2 -->
+<input class="yes—no—notgiven">
 
 **39**   It may be possible to overcome the problem of misinformation in a relatively short period.
-<!-- 2 -->
+<input class="yes—no—notgiven">
 
 **40**   The need to keep up with new information is hugely exaggerated in today’s world.
-<!-- 2 -->
+<input class="yes—no—notgiven">
