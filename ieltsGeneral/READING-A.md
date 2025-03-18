@@ -9,25 +9,25 @@ _Write the correct letter,_ _**A-F**_, _in boxes_ _**1-7**_ _on your answer shee
 _**NB**_   _You may use any letter more than once._
 
 **1**   Visitors can look at animals from another part of the world. 
-<!-- 3 -->
+<input class="text-1">
 
 **2**   People can hold a business conference in this place. 
-<!-- 3 -->
+<input class="text-1">
 
 **3**   Visitors can find out what toys were used in the last century. 
-<!-- 3 -->
+<input class="text-1">
 
 **4**   Activities are available all year round here. 
-<!-- 3 -->
+<input class="text-1">
 
 **5**   You can buy light meals here. 
-<!-- 3 -->
+<input class="text-1">
 
 **6**   Visitors can see how food was prepared in the past. 
-<!-- 3 -->
+<input class="text-1">
 
 **7**   You can visit modern imitations of old buildings here. 
-<!-- 3 -->
+<input class="text-1">
 
 ### **Questions 8-14** 
 
@@ -42,25 +42,25 @@ _**FALSE**_              _if the statement contradicts the informat
 _**NOT**_ _**GIVEN**_     _if there is no information on this_
 
 **8**   A paraglider is more comfortable than a parachute. 
-<!-- 1 -->
+<input class="true—false—notgiven">
 
 **9**   Most paragliding schools are situated by the sea. 
-<!-- 1 -->
+<input class="true—false—notgiven">
 
 **10**   Learners must pass a theory test in order to get their licence. 
-<!-- 1 -->
+<input class="true—false—notgiven">
 
 **11**   Learners are able to paraglide unaccompanied after a week’s course. 
-<!-- 1 -->
+<input class="true—false—notgiven">
 
 **12**   It is advisable to purchase some equipment before you do your training. 
-<!-- 1 -->
+<input class="true—false—notgiven">
 
 **13**   Fit people of any age can take up paragliding. 
-<!-- 1 -->
+<input class="true—false—notgiven">
 
 **14**   The preliminary uphill walk may strain some of your muscles.
-<!-- 1 -->
+<input class="true—false—notgiven">
 
 ---
 
@@ -72,19 +72,19 @@ _Choose_ _**ONE WORD ONLY**_ _from the text for each answer._
 
 _Write your answers in boxes_ _**15-21**_ _on your answer sheet._ 
 
-**15**   By preparing for your interview, you will gain <!-- 3 --> which will help you present yourself well. 
+**15**   By preparing for your interview, you will gain <input class="text-3"> which will help you present yourself well. 
 
-**16**   Read through any documents you have received about the company and also go to their <!-- 3 --> . 
+**16**   Read through any documents you have received about the company and also go to their <input class="text-3"> . 
 
-**17**   Check the job description to find out what <!-- 3 --> are involved in the post you have applied for. 
+**17**   Check the job description to find out what <input class="text-3"> are involved in the post you have applied for. 
 
-**18**   Interviewers may be interested to hear about any unpaid help you have given to a <!-- 3 --> . 
+**18**   Interviewers may be interested to hear about any unpaid help you have given to a <input class="text-3"> . 
 
-**19**   Be ready to talk about your <!-- 3 --> for the development of your career. 
+**19**   Be ready to talk about your <input class="text-3"> for the development of your career. 
 
-**20**   Explain any <!-- 3 --> that there are in your work record and clarify how you used the time to improve your skills. 
+**20**   Explain any <input class="text-3"> that there are in your work record and clarify how you used the time to improve your skills. 
 
-**21**   Questions about <!-- 3 --> should be delayed until a later stage. 
+**21**   Questions about <input class="text-3"> should be delayed until a later stage. 
 
 ### **Questions 22-27**
 
@@ -96,15 +96,15 @@ _Write your answers in boxes_ _**22-27**_ _on your answer sheet._
 
 **Step 1:**
 
-Decide who you are going to sell to and compare yourself with the **22** <!-- 3 --> you are going to have. 
+Decide who you are going to sell to and compare yourself with the **22** <input class="text-3"> you are going to have. 
 
 **Step 2:**
 
-Consider how you will market your product and your method of **23** <!-- 3 --> . 
+Consider how you will market your product and your method of **23** <input class="text-3"> . 
 
 **Step 3:**
 
-Decide if you will have to find **24** <!-- 3 --> to work in, or buy equipment. 
+Decide if you will have to find **24** <input class="text-3"> to work in, or buy equipment. 
 
 **Step 4:**
 
@@ -112,11 +112,11 @@ Think whether you will need to take on staff as your business grows.
 
 **Step 5:**
 
-Make sure you deal with the accounts and other essentials in accordance with the **25** <!-- 3 --> . 
+Make sure you deal with the accounts and other essentials in accordance with the **25** <input class="text-3"> . 
 
 **Step 6:**
 
-Calculate all the **26** <!-- 3 --> involved in your business when deciding how much to charge. 
+Calculate all the **26** <input class="text-3"> involved in your business when deciding how much to charge. 
 
 **Step 7:** 
 
@@ -124,7 +124,7 @@ Calculate the turnover you are aiming for in order to make a profit in the first
 
 **Step 8:**
 
-Consider if you require any **27** <!-- 3 --> to start your business, and where to find it. 
+Consider if you require any **27** <input class="text-3"> to start your business, and where to find it. 
 
 ---
 
@@ -157,22 +157,22 @@ _Write the correct number,_ _**i-ix**_, _in boxes_ _**28-33**_ _on your answer s
 **ix**   Useful physical features 
 
 **28**   Paragraph **A** 
-<!-- 3 -->
+<input class="text-3">
 
 **29**   Paragraph **B** 
-<!-- 3 -->
+<input class="text-3">
 
 **30**   Paragraph **C** 
-<!-- 3 -->
+<input class="text-3">
 
 **31**   Paragraph **D** 
-<!-- 3 -->
+<input class="text-3">
 
 **32**   Paragraph **E** 
-<!-- 3 -->
+<input class="text-3">
 
 **33**   Paragraph **F** 
-<!-- 3 -->
+<input class="text-3">
 
 ### **Questions 34-36**
 
@@ -181,7 +181,6 @@ _Choose the correct letter,_ _**A**_, _**B**_, _**C**_, _or_ _**D**_.
 _Write the correct letter in boxes_ _**34-36**_ _on your answer sheet._
 
 **34**   According to the writer, what is the ideal habitat for hares? 
-<!-- 3 -->
 
 **A**   open grassland which they can run across 
 
@@ -191,8 +190,9 @@ _Write the correct letter in boxes_ _**34-36**_ _on your answer sheet._
 
 **D**   land that has been farmed intensively for years 
 
+<input class="text-1">
+
 **35**   When leverets are living alone they are not visited often by their mother because 
-<!-- 3 -->
 
 **A**   this helps to protect them from being eaten by other animals. 
 
@@ -202,8 +202,9 @@ _Write the correct letter in boxes_ _**34-36**_ _on your answer sheet._
 
 **D**   they know how to find their own food from birth. 
 
+<input class="text-1">
+
 **36**   What does the writer suggest about the adult hares’ diet? 
-<!-- 3 -->
 
 **A**   They need some plants with a high fat content. 
 
@@ -213,6 +214,7 @@ _Write the correct letter in boxes_ _**34-36**_ _on your answer sheet._
 
 **D**   It is vital for them to have a supply of one particular herb. 
 
+<input class="text-1">
 
 ### **Questions 37-40**
 
@@ -224,7 +226,7 @@ _Write your answers in boxes_ _**37-40**_ _on your answer sheet._
 
 **Brown hares** 
 
-The brown hare is well known for its ability to run fast, at speeds of up to 70 kph, largely due to the length of its legs as well as the unusual size of its heart. An increased amount of blood also gives it the necessary **37** <!-- 3 --> to continue running fast for some time. A running hare resembles the **38** <!-- 3 --> more closely than its relative, the rabbit. 
+The brown hare is well known for its ability to run fast, at speeds of up to 70 kph, largely due to the length of its legs as well as the unusual size of its heart. An increased amount of blood also gives it the necessary **37** <input class="text-3"> to continue running fast for some time. A running hare resembles the **38** <input class="text-3"> more closely than its relative, the rabbit. 
 
-The hare has some other characteristics that help it to avoid capture. The first is its excellent all-round **39** <!-- 3 --> .This means that predators cannot easily creep up behind it. Another feature is its ability to position its massive **40** <!-- 3 --> separately, to sense the slightest indication of danger. 
+The hare has some other characteristics that help it to avoid capture. The first is its excellent all-round **39** <input class="text-3"> .This means that predators cannot easily creep up behind it. Another feature is its ability to position its massive **40** <input class="text-3"> separately, to sense the slightest indication of danger. 
 
