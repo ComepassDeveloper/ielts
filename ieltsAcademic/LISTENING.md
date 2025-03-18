@@ -13,40 +13,40 @@ _Write_ _**ONE WORD AND/OR A NUMBER**_ _for each answer._
 
 **The park**
 
-Area: **1** <!-- 3 -->. hectares
+Area: **1** <input class="text-3">. hectares
 
 Habitats: wetland, grassland and woodland
 
-Wetland: lakes, ponds and a **2** <!-- 3 -->.
+Wetland: lakes, ponds and a **2** <input class="text-3">.
 
 Wildlife includes birds, insects and animals
 
 
 **Subjects studied in educational visits include**
 
-Science: Children look at **3** <!-- 3 -->. about plants, etc.
+Science: Children look at **3** <input class="text-3">. about plants, etc.
 
-Geography: includes learning to use a **4** <!-- 3 -->. and compass
+Geography: includes learning to use a **4** <input class="text-3">. and compass
 
 History: changes in land use
 
-Leisure and tourism: mostly concentrates on the park’s **5** <!-- 3 -->.
+Leisure and tourism: mostly concentrates on the park’s **5** <input class="text-3">.
 
-Music: Children make **6** <!-- 3 -->. with natural materials, and experiment with rhythm and speed.
+Music: Children make **6** <input class="text-3">. with natural materials, and experiment with rhythm and speed.
 
 
 **Benefits of outdoor educational visits**
 
-They give children a feeling of **7** <!-- 3 -->. that they may not have elsewhere.
+They give children a feeling of **7** <input class="text-3">. that they may not have elsewhere.
 
-Children learn new **8** <!-- 3 -->. and gain self-confidence.
+Children learn new **8** <input class="text-3">. and gain self-confidence.
 
 
 **Practical issues**
 
-Cost per child: **9** £ <!-- 3 -->.
+Cost per child: **9** £ <input class="text-3">.
 
-Adults, such as **10** <!-- 3 -->., free
+Adults, such as **10** <input class="text-3">., free
 
 ## **PART 2**
 
@@ -58,7 +58,6 @@ _Choose the correct letter_ _**A**_, _**B**_ _or_ _**C**_.
 **Stanthorpe Twinning Association**
 
 **11**   During the visit to Malatte, in France, members especially enjoyed
-<!-- 3 -->
 
 **A**   going to a theme park.
 
@@ -66,8 +65,9 @@ _Choose the correct letter_ _**A**_, _**B**_ _or_ _**C**_.
 
 **C**   visiting a cheese factory.
 
+<input class="text-1">
+
 **12**   What will happen in Stanthorpe to mark the 25th anniversary of the Twinning Association?
-<!-- 3 -->
 
 **A**   A tree will be planted.
 
@@ -75,8 +75,9 @@ _Choose the correct letter_ _**A**_, _**B**_ _or_ _**C**_.
 
 **C**   A footbridge will be built.
 
+<input class="text-1">
+
 **13**   Which event raised most funds this year?
-<!-- 3 -->
 
 **A**   the film show
 
@@ -84,8 +85,9 @@ _Choose the correct letter_ _**A**_, _**B**_ _or_ _**C**_.
 
 **C**   the cookery demonstration
 
+<input class="text-1">
+
 **14**   For the first evening with the French visitors host families are advised to
-<!-- 3 -->
 
 **A**   take them for a walk round the town.
 
@@ -93,14 +95,17 @@ _Choose the correct letter_ _**A**_, _**B**_ _or_ _**C**_.
 
 **C**   have a meal at home.
 
+<input class="text-1">
+
 **15**   On Saturday evening there will be the chance to
-<!-- 3 -->
 
 **A**   listen to a concert.
 
 **B**   watch a match.
 
 **C**   take part in a competition.
+
+<input class="text-1">
 
 ### **Questions 16–20**
 
@@ -110,22 +115,19 @@ _Write the correct letter,_ _**A–H**_, next to Questions 16–20.
 
 ![Alt text](https://cdn.jsdelivr.net/gh/ComepassDeveloper/ielts@main/ieltsAcademic/listening-image.jpg)
 
-**16**   Farm shop   <!-- 3 -->
+**16**   Farm shop   <input class="text-3">
 
-**17**   Disabled entry   <!-- 3 -->
+**17**   Disabled entry   <input class="text-3">
 
-**18**   Adventure playground   <!-- 3 -->
+**18**   Adventure playground   <input class="text-3">
 
-**19**   Kitchen gardens   <!-- 3 -->
+**19**   Kitchen gardens   <input class="text-3">
 
-**20**   The Temple of the Four Winds   <!-- 3 -->
+**20**   The Temple of the Four Winds   <input class="text-3">
 
 ## **PART 3**
 
 ### **Questions 21 and 22**
-<!-- 3 -->
-
-<!-- 3 -->
 
 _Choose_ _**TWO**_ _letters,_ _**A–E**_.
 
@@ -141,10 +143,9 @@ Which **TWO** things did Colin find most satisfying about his bread reuse proj
 
 **E**   learning how to apply 3-D priting
 
-### **Questions 23 and 24**
-<!-- 3 -->
+<input class="text-2">
 
-<!-- 3 -->
+### **Questions 23 and 24**
 
 _Choose_ _**TWO**_ _letters,_ _**A–E**_.
 
@@ -159,6 +160,8 @@ Which **TWO** ways do the students agree that touch-sensitive sensors for food
 **D**   to provide applications for blind people
 
 **E**   to indicate the weight of certain foods
+
+<input class="text-2">
 
 ### **Questions 25–30**
 
@@ -186,17 +189,17 @@ _Choose_ _**SIX**_ _answers from the box and write the correct answer,_ _**A�
 
 **Food trends**
 
-**25**   Use of local products   <!-- 3 -->
+**25**   Use of local products   <input class="text-3">
 
-**26**   Reduction in unnecessary packaging   <!-- 3 -->
+**26**   Reduction in unnecessary packaging   <input class="text-3">
 
-**27**   Gluten-free and lactose-free food   <!-- 3 -->
+**27**   Gluten-free and lactose-free food   <input class="text-3">
 
-**28**   Use of branded products related to celebrity chefs   <!-- 3 -->
+**28**   Use of branded products related to celebrity chefs   <input class="text-3">
 
-**29**   Development of ‘ghost kitchens’ for takeaway food   <!-- 3 -->
+**29**   Development of ‘ghost kitchens’ for takeaway food   <input class="text-3">
 
-**30**   Use of mushrooms for common health concerns   <!-- 3 -->
+**30**   Use of mushrooms for common health concerns   <input class="text-3">
 
 ## **PART 4**
 
@@ -212,34 +215,34 @@ _Write_ _**ONE WORD ONLY**_ _for each answer._
 
 **Discovery**
 
-●   In the 1930s, a local teacher realised that stones beneath the bog surface were once **31** <!-- 3 --> .
+●   In the 1930s, a local teacher realised that stones beneath the bog surface were once **31** <input class="text-3"> .
 
-●   His **32** <!-- 3 --> became an archaeologist and undertook an investigation of the site:
+●   His **32** <input class="text-3"> became an archaeologist and undertook an investigation of the site:
 
-       –   a traditional method used by local people to dig for **33** <!-- 3 --> was used to identify where stones were located
+       –   a traditional method used by local people to dig for **33** <input class="text-3"> was used to identify where stones were located
 
        –   carbon dating later proved the site was Neolithic.
 
-●   Items are well preserved in the bog because of a lack of **34** <!-- 3 --> .
+●   Items are well preserved in the bog because of a lack of **34** <input class="text-3"> .
 
 
 **Neolithic farmers**
 
-●   Houses were **35** <!-- 3 --> in shape and had a hole in the roof.
+●   Houses were **35** <input class="text-3"> in shape and had a hole in the roof.
 
 ●   Neolithic innovations include:
 
        –   cooking indoors
 
-       –   pots used for storage and to make **36** <!-- 3 --> .
+       –   pots used for storage and to make **36** <input class="text-3"> .
 
-●   Each field at Céide was large enough to support a big **37** <!-- 3 --> .
+●   Each field at Céide was large enough to support a big **37** <input class="text-3"> .
 
-●   The fields were probably used to restrict the grazing of animals – no evidence of structurers to house them during **38** <!-- 3 --> .
+●   The fields were probably used to restrict the grazing of animals – no evidence of structurers to house them during **38** <input class="text-3"> .
 
 
 **Reasons for the decline in farming**
 
-●   a decline in **39** <!-- 3 --> quality
+●   a decline in **39** <input class="text-3"> quality
 
-●   an increase in **40** <!-- 3 -->
+●   an increase in **40** <input class="text-3">
