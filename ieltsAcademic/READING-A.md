@@ -85,9 +85,6 @@ _**NB**_   _You may use any letter more than once._
 <input class="text-3">
 
 ### **Questions 20 and 21**
-<input class="text-2">
-
-<input class="text-2">
 
 _Choose_ _**TWO**_ _letters,_ _**A–E**_.
 
@@ -105,10 +102,9 @@ Which **TWO** of the following statements does the writer make about inhabitan
 
 **E**   They stored many of the goods taken in pirate attacks in coves along the coastline.
 
-### **Questions 22 and 23**
 <input class="text-2">
 
-<input class="text-2">
+### **Questions 22 and 23**
 
 _Choose_ _**TWO**_ _letters,_ _**A–E**_.
 
@@ -126,6 +122,8 @@ Which **TWO** of the following statements does the writer make about piracy an
 
 **E**   A favourable view of piracy is evident in certain ancient Greek texts.
 
+<input class="text-2">
+
 ### **Questions 24–26**
 
 _Complete the summary below._
@@ -137,7 +135,7 @@ _Write your answers in boxes_ _**24–26**_ _on your answer sheet._
 **Ancient Rome and piracy**
 -----------------------------------
 
-Piracy was an issue ancient Rome had to deal with, but it also brought some benefits for Rome. For example, pirates supplied slaves that were important for Rome’s industries. However, attacks on vessels transporting **24** <!-- 3 --> to Rome resulted in calls for **25** <!-- 3 --> for the pirates responsible. Nevertheless, piracy continued, with some pirates demanding a **26** <!-- 3 --> for the return of the Roman officials they captured.
+Piracy was an issue ancient Rome had to deal with, but it also brought some benefits for Rome. For example, pirates supplied slaves that were important for Rome’s industries. However, attacks on vessels transporting **24** <input class="text-3"> to Rome resulted in calls for **25** <input class="text-3"> for the pirates responsible. Nevertheless, piracy continued, with some pirates demanding a **26** <input class="text-3"> for the return of the Roman officials they captured.
 
 ---
 
