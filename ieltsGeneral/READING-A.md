@@ -9,25 +9,25 @@ _Write the correct letter,_ _**A-F**_, _in boxes_ _**1-7**_ _on your answer shee
 _**NB**_   _You may use any letter more than once._
 
 **1**   Visitors can look at animals from another part of the world. 
-<input class="text-1">
+<input class="text-3" data-id="1">
 
 **2**   People can hold a business conference in this place. 
-<input class="text-1">
+<input class="text-3" data-id="2">
 
 **3**   Visitors can find out what toys were used in the last century. 
-<input class="text-1">
+<input class="text-3" data-id="3">
 
 **4**   Activities are available all year round here. 
-<input class="text-1">
+<input class="text-3" data-id="4">
 
 **5**   You can buy light meals here. 
-<input class="text-1">
+<input class="text-3" data-id="5">
 
 **6**   Visitors can see how food was prepared in the past. 
-<input class="text-1">
+<input class="text-3" data-id="6">
 
 **7**   You can visit modern imitations of old buildings here. 
-<input class="text-1">
+<input class="text-3" data-id="7">
 
 ### **Questions 8-14** 
 
@@ -42,25 +42,25 @@ _**FALSE**_              _if the statement contradicts the informat
 _**NOT**_ _**GIVEN**_     _if there is no information on this_
 
 **8**   A paraglider is more comfortable than a parachute. 
-<input class="true—false—notgiven">
+<input class="true—false—notgiven" data-id="8">
 
 **9**   Most paragliding schools are situated by the sea. 
-<input class="true—false—notgiven">
+<input class="true—false—notgiven" data-id="9">
 
 **10**   Learners must pass a theory test in order to get their licence. 
-<input class="true—false—notgiven">
+<input class="true—false—notgiven" data-id="10">
 
 **11**   Learners are able to paraglide unaccompanied after a week’s course. 
-<input class="true—false—notgiven">
+<input class="true—false—notgiven"data-id="11" >
 
 **12**   It is advisable to purchase some equipment before you do your training. 
-<input class="true—false—notgiven">
+<input class="true—false—notgiven" data-id="12">
 
 **13**   Fit people of any age can take up paragliding. 
-<input class="true—false—notgiven">
+<input class="true—false—notgiven" data-id="13">
 
 **14**   The preliminary uphill walk may strain some of your muscles.
-<input class="true—false—notgiven">
+<input class="true—false—notgiven"data-id="14" >
 
 ---
 
@@ -72,19 +72,19 @@ _Choose_ _**ONE WORD ONLY**_ _from the text for each answer._
 
 _Write your answers in boxes_ _**15-21**_ _on your answer sheet._ 
 
-**15**   By preparing for your interview, you will gain <input class="text-3"> which will help you present yourself well. 
+**15**   By preparing for your interview, you will gain <input class="text-3" data-id="15"> which will help you present yourself well. 
 
-**16**   Read through any documents you have received about the company and also go to their <input class="text-3"> . 
+**16**   Read through any documents you have received about the company and also go to their <input class="text-3" data-id="16"> . 
 
-**17**   Check the job description to find out what <input class="text-3"> are involved in the post you have applied for. 
+**17**   Check the job description to find out what <input class="text-3" data-id="17"> are involved in the post you have applied for. 
 
-**18**   Interviewers may be interested to hear about any unpaid help you have given to a <input class="text-3"> . 
+**18**   Interviewers may be interested to hear about any unpaid help you have given to a <input class="text-3" data-id="18"> . 
 
-**19**   Be ready to talk about your <input class="text-3"> for the development of your career. 
+**19**   Be ready to talk about your <input class="text-3" data-id="19"> for the development of your career. 
 
-**20**   Explain any <input class="text-3"> that there are in your work record and clarify how you used the time to improve your skills. 
+**20**   Explain any <input class="text-3" data-id="20"> that there are in your work record and clarify how you used the time to improve your skills. 
 
-**21**   Questions about <input class="text-3"> should be delayed until a later stage. 
+**21**   Questions about <input class="text-3" data-id="21"> should be delayed until a later stage. 
 
 ### **Questions 22-27**
 
@@ -96,15 +96,15 @@ _Write your answers in boxes_ _**22-27**_ _on your answer sheet._
 
 **Step 1:**
 
-Decide who you are going to sell to and compare yourself with the **22** <input class="text-3"> you are going to have. 
+Decide who you are going to sell to and compare yourself with the **22** <input class="text-3" data-id="22"> you are going to have. 
 
 **Step 2:**
 
-Consider how you will market your product and your method of **23** <input class="text-3"> . 
+Consider how you will market your product and your method of **23** <input class="text-3" data-id="23"> . 
 
 **Step 3:**
 
-Decide if you will have to find **24** <input class="text-3"> to work in, or buy equipment. 
+Decide if you will have to find **24** <input class="text-3" data-id="24"> to work in, or buy equipment. 
 
 **Step 4:**
 
@@ -112,11 +112,11 @@ Think whether you will need to take on staff as your business grows.
 
 **Step 5:**
 
-Make sure you deal with the accounts and other essentials in accordance with the **25** <input class="text-3"> . 
+Make sure you deal with the accounts and other essentials in accordance with the **25** <input class="text-3" data-id="25"> . 
 
 **Step 6:**
 
-Calculate all the **26** <input class="text-3"> involved in your business when deciding how much to charge. 
+Calculate all the **26** <input class="text-3" data-id="26"> involved in your business when deciding how much to charge. 
 
 **Step 7:** 
 
@@ -124,7 +124,7 @@ Calculate the turnover you are aiming for in order to make a profit in the first
 
 **Step 8:**
 
-Consider if you require any **27** <input class="text-3"> to start your business, and where to find it. 
+Consider if you require any **27** <input class="text-3" data-id="27"> to start your business, and where to find it. 
 
 ---
 
@@ -157,22 +157,22 @@ _Write the correct number,_ _**i-ix**_, _in boxes_ _**28-33**_ _on your answer s
 **ix**   Useful physical features 
 
 **28**   Paragraph **A** 
-<input class="text-3">
+<input class="text-3" data-id="28">
 
 **29**   Paragraph **B** 
-<input class="text-3">
+<input class="text-3" data-id="29">
 
 **30**   Paragraph **C** 
-<input class="text-3">
+<input class="text-3" data-id="30">
 
 **31**   Paragraph **D** 
-<input class="text-3">
+<input class="text-3" data-id="31">
 
 **32**   Paragraph **E** 
-<input class="text-3">
+<input class="text-3" data-id="32">
 
 **33**   Paragraph **F** 
-<input class="text-3">
+<input class="text-3" data-id="33">
 
 ### **Questions 34-36**
 
@@ -190,7 +190,7 @@ _Write the correct letter in boxes_ _**34-36**_ _on your answer sheet._
 
 **D**   land that has been farmed intensively for years 
 
-<input class="text-1">
+<input class="text-1" data-id="34">
 
 **35**   When leverets are living alone they are not visited often by their mother because 
 
@@ -202,7 +202,7 @@ _Write the correct letter in boxes_ _**34-36**_ _on your answer sheet._
 
 **D**   they know how to find their own food from birth. 
 
-<input class="text-1">
+<input class="text-1" data-id="35">
 
 **36**   What does the writer suggest about the adult hares’ diet? 
 
@@ -214,7 +214,7 @@ _Write the correct letter in boxes_ _**34-36**_ _on your answer sheet._
 
 **D**   It is vital for them to have a supply of one particular herb. 
 
-<input class="text-1">
+<input class="text-1" data-id="36">
 
 ### **Questions 37-40**
 
@@ -226,7 +226,7 @@ _Write your answers in boxes_ _**37-40**_ _on your answer sheet._
 
 **Brown hares** 
 
-The brown hare is well known for its ability to run fast, at speeds of up to 70 kph, largely due to the length of its legs as well as the unusual size of its heart. An increased amount of blood also gives it the necessary **37** <input class="text-3"> to continue running fast for some time. A running hare resembles the **38** <input class="text-3"> more closely than its relative, the rabbit. 
+The brown hare is well known for its ability to run fast, at speeds of up to 70 kph, largely due to the length of its legs as well as the unusual size of its heart. An increased amount of blood also gives it the necessary **37** <input class="text-3" data-id="37"> to continue running fast for some time. A running hare resembles the **38** <input class="text-3" data-id="38"> more closely than its relative, the rabbit. 
 
-The hare has some other characteristics that help it to avoid capture. The first is its excellent all-round **39** <input class="text-3"> .This means that predators cannot easily creep up behind it. Another feature is its ability to position its massive **40** <input class="text-3"> separately, to sense the slightest indication of danger. 
+The hare has some other characteristics that help it to avoid capture. The first is its excellent all-round **39** <input class="text-3" data-id="39"> .This means that predators cannot easily creep up behind it. Another feature is its ability to position its massive **40** <input class="text-3" data-id="40"> separately, to sense the slightest indication of danger. 
 
