@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/57a17022-56b4-4af4-a5a3-8ba80cef63c6)[Listen to the audio](https://github.com/ComepassDeveloper/ielts/raw/refs/heads/main/ieltsAcademic/Cap19Test1.MP3)
+[Listen to the audio](https://github.com/ComepassDeveloper/ielts/raw/refs/heads/main/ieltsAcademic/Cap19Test1.MP3)
 
 ## **PART 1**
 
