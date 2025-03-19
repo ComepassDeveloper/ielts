@@ -2,7 +2,7 @@
 
 **Task 1**: Summarize the information by selecting and reporting the main features, and make comparisons where relevant. 
 
-![Alt text](https://cdn.jsdelivr.net/gh/ComepassDeveloper/ielts@main/ieltsGeneral/writing-image.png)
+![Alt text](https://cdn.jsdelivr.net/gh/ComepassDeveloper/ielts@api/ieltsGeneral/writing-image.png)
 
 <input class="textarea">
 
