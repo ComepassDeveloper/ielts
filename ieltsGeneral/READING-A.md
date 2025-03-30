@@ -60,7 +60,7 @@ _**NOT**_ _**GIVEN**_     _if there is no information on this_
 <input class="true—false—notgiven" data-id="13">
 
 **14**   The preliminary uphill walk may strain some of your muscles.
-<input class="true—false—notgiven"data-id="14" >
+<input class="true—false—notgiven" data-id="14" >
 
 ---
 
