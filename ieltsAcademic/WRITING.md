@@ -12,10 +12,10 @@ Write at least 150 words.
 
 You do not need to write any addresses. 
 
-<input class="textarea">
+<input class="textarea" data-id="1">
 
 **Task 2**: Some people believe that children should be allowed to use electronic devices as much as they want. Others think that using devices should be limited. 
 
 Discuss both views and give your opinion.
 
-<input class="textarea">
+<input class="textarea" data-id="2">
