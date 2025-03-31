@@ -1,4 +1,6 @@
-[Listen to the audio](https://github.com/ComepassDeveloper/ielts/raw/refs/heads/main/ieltsAcademic/Cap19Test1.MP3)
+<audio controls>
+  <source src="https://github.com/ComepassDeveloper/ielts/raw/refs/heads/main/ieltsAcademic/Cap19Test1.MP3" type="audio/mpeg">
+</audio>
 
 ## **PART 1**
 
