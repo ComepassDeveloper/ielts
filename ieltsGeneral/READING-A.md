@@ -51,7 +51,7 @@ _**NOT**_ _**GIVEN**_     _if there is no information on this_
 <input class="true—false—notgiven" data-id="10">
 
 **11**   Learners are able to paraglide unaccompanied after a week’s course. 
-<input class="true—false—notgiven"data-id="11" >
+<input class="true—false—notgiven" data-id="11" >
 
 **12**   It is advisable to purchase some equipment before you do your training. 
 <input class="true—false—notgiven" data-id="12">
